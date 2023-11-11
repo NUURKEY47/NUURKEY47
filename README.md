@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer and PHP developer from Kenyaom Kenya</h3>
+<h3 align="center">A passionate frontend developer and PHP developer from  Kenya</h3>
 
 - 🌱 I’m currently learning **vanilla PHP and laravel framework**
 
