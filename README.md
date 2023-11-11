@@ -1,6 +1,6 @@
 <h3 align="center">Hi my name is NOOR MOHAMED ABDIAKDIR</h3>
 <h3 align="center">A passionate frontend developer and PHP developer from  Kenya</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+(img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/programmer-4375641")
 
 - 🌱 I’m currently learning **vanilla PHP and laravel framework**
 
