@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm NOOR MOHAMED ABDIKADIR</h1>
+<h1 align="center">Hi 👋, I'm NOOR MOHAMED ABDIKADIR</h1>
 <h3 align="center">A passionate frontend developer from KENYA</h3>
 
 - 🔭 I’m currently working on [REAL STATE SYSTEM](http://localhost:8080/realEstate/admin/dashboard.php)
