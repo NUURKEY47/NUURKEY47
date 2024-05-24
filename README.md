@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer and PHP developer from  Kenya</h3>
 
 
-- 🌱 I’m currently learning **vanilla PHP and laravel framework**
+- 🌱 I’m currently learning **ADVANCED PHP AND JAVASCRIPT**
 
-- 💬 Ask me about **vanilla JavaScript**
+- 💬 Ask me about **vanilla JavaScript AND PHP LANGUAGE**
 
-- 📫 How to reach me **yessnoor143@gmail.com**
+- 📫 How to reach me **MASTERNUURKEY47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
