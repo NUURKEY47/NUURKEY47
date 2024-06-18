@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NOOR MOHAMED ABDIKADIR</h1>
-<h3 align="center">A passionate frontend developer  and PHP developer from KENYA</h3>
+<h3 align="center">A passionate frontend and PHP developer  from KENYA</h3>
 
 - 🔭 I’m currently working on [REAL STATE SYSTEM](http://localhost:8080/realEstate/admin/dashboard.php)
 
