@@ -10,7 +10,7 @@ I'm **noor mohamed abdikadir**, a passionate front-end and PHP developer constan
 Here are some of my notable projects:
 
 
-- - [Project 1](https://nuurkey47.github.io/EastCode/): Brief description of Project 1.
+- - [Project 1](https://nuurkey47.github.io/EastCode/): myWebsite.
 
 
 ## 🌐 Connect with Me
