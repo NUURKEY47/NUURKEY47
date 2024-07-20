@@ -42,8 +42,9 @@ Here are some of my notable projects:
 ---
 
 ### 📫 How to reach me:
-- Email: [nuurkeymohamed47@example.com](mailto:nuurkeymohamed4l@example.com)
+- Email: [nuurkeymohamed47@example.com](mailto:nuurkeymohamed47@example.com)
 - LinkedIn: [linkedin.com/in/YourUsername](https://www.linkedin.com/in/YourUsername)
 - Twitter: [twitter.com/YourUsername](https://twitter.com/YourUsername)
 
 Thanks for visiting! 😊
+
