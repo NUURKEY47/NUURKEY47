@@ -3,7 +3,7 @@
 I'm **noor mohamed abdikadir**, a passionate front-end and PHP developer constantly learning and growing in the ever-evolving field of web development.
 
 ## 🔭 What I'm Currently Working On
-- 🌱 I’m currently learning advanced JavaScript frameworks like React.js
+- 🌱 I’m currently learning advanced JavaScript frameworks like React.js and php
 - 🚀 Working on personal projects to improve my skills in full-stack development
 
 ## 🌟 Featured Projects
@@ -11,11 +11,13 @@ Here are some of my notable projects:
 
 
 - - [Project 1](https://nuurkey47.github.io/EastCode/): myWebsite.
+  - https://github.com/NUURKEY47/subway
+  - https://nuurkey47.github.io/QuizApp/
 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YourUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-YourUsername-blue?style=flat&logo=twitter)](https://twitter.com/YourUsername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourUsername-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mr eastcode)
+[![Twitter](https://img.shields.io/badge/Twitter-YourUsername-blue?style=flat&logo=twitter)](https://twitter.com/eastcode)
 [![GitHub](https://img.shields.io/badge/GitHub-NUURKEY47-lightgrey?style=flat&logo=github)](https://github.com/NUURKEY47)
 
 ## 🛠️ Languages and Tools I Use
@@ -30,11 +32,11 @@ Here are some of my notable projects:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?nuurkey47=nuurkey47&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ## 🏆 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuurkey47&theme=radical)](https://git.io/streak-stats)
 
 ## 📈 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
