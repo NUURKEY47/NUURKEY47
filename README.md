@@ -32,21 +32,21 @@ Here are some of my notable projects:
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?nuurkey47=nuurkey47&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?=YourUsername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
 
 ## 🏆 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuurkey47&theme=radical)](https://git.io/streak-stats)
 
 ## 📈 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/YourUsername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/nuurkey47/count.svg)
 
 ---
 
 ### 📫 How to reach me:
 - Email: [nuurkeymohamed47@example.com](mailto:nuurkeymohamed47@example.com)
-- LinkedIn: [linkedin.com/in/YourUsername](https://www.linkedin.com/in/YourUsername)
-- Twitter: [twitter.com/YourUsername](https://twitter.com/YourUsername)
+- LinkedIn: [linkedin.com/in/mr eastcode](https://www.linkedin.com/in/mr eastcode)
+- Twitter: [twitter.com/eastcode](https://twitter.com/eastcode)
 
 Thanks for visiting! 😊
 
