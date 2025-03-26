@@ -1,18 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm noor mohamed abdikadir</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend  and  and Java developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuurkey47&label=Profile%20views&color=0e75b6&style=flat" alt="nuurkey47" /> </p>
-
-<p align="left"> <a href="https://twitter.com/eastcode" target="blank"><img src="https://img.shields.io/twitter/follow/eastcode?logo=twitter&style=for-the-badge" alt="eastcode" /></a> </p>
-
 - 🔭 I’m currently working on react Application
 
 - 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on [chrome extension](##)
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at [(https://nuurkey47.github.io/portfolio/)]
 
 - 💬 Ask me about **javascript, php**
 
