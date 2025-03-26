@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/eastcode" target="blank"><img src="https://img.shields.io/twitter/follow/eastcode?logo=twitter&style=for-the-badge" alt="eastcode" /></a> </p>
 
-- 🔭 I’m currently working on [lead-app](#lead-app)
+- 🔭 I’m currently working on react Application
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on [chrome extension](##)
 
