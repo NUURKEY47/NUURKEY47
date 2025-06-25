@@ -8,18 +8,14 @@
 - 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on [RealState Project](#)
-- Favorite tech
+
+- 
+-** Favorite tech**
 Currently I enjoy working with Next.js, TailwindCSS, Node.js, Express, React, Mongodb, PostgreSQL & Firebase 
 
 
-- 💬 Ask me about **javascript, php**
 
 - 📫 How to reach me **nuurkeymohamed47@gmail.com**
-
-- 📄 Know about my experiences [myResume](myResume)
-
-- ⚡ Fun fact **i am efootball fan**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eastcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eastcode" height="30" width="40" /></a>
