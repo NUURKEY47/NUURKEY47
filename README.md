@@ -3,17 +3,14 @@
 <h3 align="center">A passionate fullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuurkey47&label=Profile%20views&color=0e75b6&style=flat" alt="nuurkey47" /> </p>
-- 🔭 I’m currently working on react Application
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning  Next.js, python and Astro
 
 - 👯 I’m looking to collaborate on [RealState Project](#)
 
-- 
--** Favorite tech**
+- Favorite tech
+
 Currently I enjoy working with Next.js, TailwindCSS, Node.js, Express, React, Mongodb, PostgreSQL & Firebase 
-
-
 
 - 📫 How to reach me **nuurkeymohamed47@gmail.com**
 <h3 align="left">Connect with me:</h3>
