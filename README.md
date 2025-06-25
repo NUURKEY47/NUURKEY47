@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **JAVA**
 
 - 👯 I’m looking to collaborate on [RealState Project](#)
+- Favorite tech
+Currently I enjoy working with Next.js, TailwindCSS, Node.js, Express, React, Mongodb, PostgreSQL & Firebase 
 
 
 - 💬 Ask me about **javascript, php**
