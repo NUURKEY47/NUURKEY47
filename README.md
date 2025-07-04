@@ -5,7 +5,7 @@ A passionate FullStack Developer
 **[nuurkey47](https://github.com/nuurkey47)**
 
 
-💬 **Ask me about** FullStack development, Next.js, or database management
+💬 **Ask me about** FullStack development, , dockey and database management
 
 📫 **How to reach me** nuurkeymohamed47@gmail.com
 
