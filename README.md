@@ -4,7 +4,6 @@ A passionate FullStack Developer
 
 **[nuurkey47](https://github.com/nuurkey47)**
 
----
 
 💬 **Ask me about** FullStack development, Next.js, or database management
 
@@ -22,12 +21,6 @@ A passionate FullStack Developer
 
 ### Favorite tech:
 Currently I enjoy working with Next.js, TailwindCSS, Node.js, Express, React, Mongodb, PostgreSQL & Firebase
-
-
-
----
-
-
 
 ---
 
