@@ -1,16 +1,36 @@
+# Hi 👋, I'm Noor Mohamed Abdikadir
 
-<h1 align="center">Hi 👋, I'm noor mohamed abdikadir</h1>
-<h3 align="center">A passionate fullStack Developer</h3>
+A passionate FullStack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuurkey47&label=Profile%20views&color=0e75b6&style=flat" alt="nuurkey47" /> </p>
+**[nuurkey47](https://github.com/nuurkey47)**
 
-- 🌱 I’m currently learning  Next.js, python and Astro
+---
 
-- 👯 I’m looking to collaborate on [RealState Project](#)
+💬 **Ask me about** FullStack development, Next.js, or database management
 
-- Favorite tech
+📫 **How to reach me** nuurkeymohamed47@gmail.com
 
-Currently I enjoy working with Next.js, TailwindCSS, Node.js, Express, React, Mongodb, PostgreSQL & Firebase 
+🌱 **I’m currently learning** Next.js, Python, and Astro
+
+👯 **I’m looking to collaborate on** RealState Project
+
+🌟 **I enjoy** working on innovative web applications and building scalable solutions
+
+🎨 **I love** crafting seamless user experiences with modern tech stacks
+
+---
+
+### Favorite tech:
+Currently I enjoy working with Next.js, TailwindCSS, Node.js, Express, React, Mongodb, PostgreSQL & Firebase
+
+
+
+---
+
+
+
+---
+
 
 - 📫 How to reach me **nuurkeymohamed47@gmail.com**
 <h3 align="left">Connect with me:</h3>
