@@ -1,69 +1,44 @@
 # Hi 👋, I'm Noor Mohamed Abdikadir
 
-**Passionate Backend Developer & Full Stack Enthusiast**
+A passionate backend Developer
+
+**[nuurkey47](https://github.com/nuurkey47)**
+
+
+💬 **Ask me about** FullStack development, , dockey and database management
+
+📫 **How to reach me** nuurkeymohamed47@gmail.com
+
+🌱 **I’m currently learning** Next.js, Python
+
+👯 **I’m looking to collaborate on** RealState Project
+
+🌟 **I enjoy** working on innovative web applications and building scalable solutions
+
+🎨 **I love** crafting seamless user experiences with modern tech stacks
 
 ---
 
-💬 **Ask me about:**  
-Full Stack Development, Docker, Database Management
-
-📫 **Reach me at:**  
-[nuurkeymohamed47@gmail.com](mailto:nuurkeymohamed47@gmail.com)
-
-🌱 **Currently learning:**  
-Next.js, Python
-
-👯 **Looking to collaborate on:**  
-RealEstate Project
+### Favorite tech:
+Currently I enjoy working with Next.js, TailwindCSS, Node.js, Express, React, Mongodb, PostgreSQL & Firebase
 
 ---
 
-## 📌 Pinned Repositories
 
+- 📫 How to reach me **nuurkeymohamed47@gmail.com**
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/NUURKEY47/RealEstateAPI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NUURKEY47&repo=RealEstateAPI&theme=default" alt="RealEstateAPI" />
-  </a>
-  <a href="https://github.com/NUURKEY47/NUURKEY47">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NUURKEY47&repo=NUURKEY47&theme=default" alt="NUURKEY47" />
-  </a>
-  <!-- Add more pinned repos as needed -->
+<a href="https://twitter.com/eastcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eastcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mr eastcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="mr eastcode" height="30" width="40" /></a>
 </p>
 
----
-
-## 📈 My GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NUURKEY47&theme=github-compact" alt="Contribution Graph" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postgre
+sql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuurkey47&show_icons=true&locale=en&layout=compact" alt="nuurkey47" /></p>
 
-## 🛠️ Favorite Tech Stack
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuurkey47&show_icons=true&locale=en" alt="nuurkey47" /></p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-
----
-
-## 🌐 Connect with me
-
-[![Twitter](https://img.shields.io/badge/Twitter-@eastcode-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/eastcode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mr%20eastcode-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr%20eastcode)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NUURKEY47&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NUURKEY47" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NUURKEY47&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuurkey47&" alt="nuurkey47" /></p>
