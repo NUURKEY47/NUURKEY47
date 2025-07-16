@@ -1,6 +1,6 @@
 # Hi 👋, I'm Noor Mohamed Abdikadir
 
-A passionate FullStack Developer
+A passionate backend Developer
 
 **[nuurkey47](https://github.com/nuurkey47)**
 
@@ -9,7 +9,7 @@ A passionate FullStack Developer
 
 📫 **How to reach me** nuurkeymohamed47@gmail.com
 
-🌱 **I’m currently learning** Next.js, Python, and Astro
+🌱 **I’m currently learning** Next.js, Python
 
 👯 **I’m looking to collaborate on** RealState Project
 
