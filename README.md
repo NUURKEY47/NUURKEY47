@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuurkey47&show_icons=true&locale=en" alt="nuurkey47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuurkey47&" alt="nuurkey47" /></p>
-pescript, express js , Postgress, and prisma and docker
