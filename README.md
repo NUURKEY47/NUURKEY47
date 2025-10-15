@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on [https://blog.eastcod.xyz/](https://blog.eastcod.xyz/)
 
 ## 🔗 my Current Tech Stack.
-   **express,typescript , postgres, prisma, dockercker**
+   **Express,Typescript , Postgres, Prisma, Docker**
 
 - 📫 How to reach me **nuurkeymohamed47@gmail.com**
 
