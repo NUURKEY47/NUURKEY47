@@ -11,8 +11,8 @@
 
 - 📝 I regularly write articles on [https://blog.eastcod.xyz/](https://blog.eastcod.xyz/)
 
-## 🔗 my Current Tech Stack.
-   **Express,Typescript , Postgres, Prisma, Docker**
+Favorite tech
+Currently I enjoy working with React, TailwindCSS, Node.js, PostgreSQL & Prisma and Docker
 
 - 📫 How to reach me **nuurkeymohamed47@gmail.com**
 
