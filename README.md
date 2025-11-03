@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at https://portfolio.eastcod.xyz/
 
-- 📝 I regularly write articles on [https://blog.eastcod.xyz/](https://blog.eastcod.xyz/)
+- 📝 I currently working on (https://api.eastcod.xyz/api-docs)
 
 Favorite tech
 Currently I enjoy working with React, TailwindCSS, Node.js, PostgreSQL & Prisma and Docker
