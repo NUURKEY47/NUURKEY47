@@ -9,10 +9,10 @@
 
 - 👨‍💻 All of my projects are available at https://portfolio.eastcod.xyz/
 
-- 📝 I currently working on (https://api.eastcod.xyz/api-docs)
+- 📝 I currently working on (https://api.eastcod.xyz/api-docs) v2
 
 Favorite tech
-Currently I enjoy working with React, TailwindCSS, Node.js, PostgreSQL & Prisma and Docker
+Currently I enjoy working with React, TailwindCSS, Node.js, TypeScript ,PostgreSQL & Prisma and Docker
 
 - 📫 How to reach me **nuurkeymohamed47@gmail.com**
 
