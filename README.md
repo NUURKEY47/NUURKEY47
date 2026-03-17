@@ -19,16 +19,16 @@ A passionate full-stack software engineer from Nairobi, Kenya
 React · TailwindCSS · Node.js · TypeScript · Prisma · PostgreSQL · Docker
 
 📫 Reach me:  
-→ nuurkeymohamed47@gmail.com  
-→ LinkedIn: linkedin.com/in/noor-mohamed-abdikadir  
-→ Twitter/X: @yourhandle
+→ yessnoor143@gmail.com  
+→ LinkedIn: [(https://www.linkedin.com/in/masternuurkey47/)](https://www.linkedin.com/in/masternuurkey47/)
+→ Twitter/X: [@yourhandle](https://x.com/yek_ruun)
 
 Open to full-stack/backend opportunities, internships & collaborations — let's build something impactful!
 
 Favorite tech
 Currently I enjoy working with React, TailwindCSS, Node.js, TypeScript ,PostgreSQL & Prisma and Docker
 
-- 📫 How to reach me **nuurkeymohamed47@gmail.com**
+- 📫 How to reach me→ yessnoor143@gmail.com  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
