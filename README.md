@@ -1,15 +1,29 @@
+Hi 👋, I'm Noor Mohamed Abdikadir  
+A passionate full-stack software engineer from Nairobi, Kenya
 
+🔭 Currently building RealEstate Management System v2  
+→ Full-stack integration (React + Tailwind frontend + Node.js/Prisma/PostgreSQL backend)  
+→ Role-based property, unit & tenant management with JWT auth  
+→ Live progress: https://github.com/NUURKEY47/RealEstateApiV2
 
-<h1 align="center">Hi 👋, I'm Noor Mohamed Abdikadir</h1>
-<h3 align="center">A passionate software engineer from Kenya</h3>
+🌱 Learning & leveling up in:
+- React + TypeScript
+- TailwindCSS + modern UI/UX
+- Prisma + PostgreSQL
+- Docker & clean architecture
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuurkey47&label=Profile%20views&color=0e75b6&style=flat" alt="nuurkey47" /> </p>
+👨‍💻 All my projects: https://portfolio.eastcod.xyz  
+📝 Current main API (Swagger docs): https://api.eastcod.xyz/api-docs
 
-- 🔭 I’m currently learning **Java**
+💼 Favorite stack right now:
+React · TailwindCSS · Node.js · TypeScript · Prisma · PostgreSQL · Docker
 
-- 👨‍💻 All of my projects are available at https://portfolio.eastcod.xyz/
+📫 Reach me:  
+→ nuurkeymohamed47@gmail.com  
+→ LinkedIn: linkedin.com/in/noor-mohamed-abdikadir  
+→ Twitter/X: @yourhandle
 
-- 📝 I currently working on (https://api.eastcod.xyz/api-docs) v2
+Open to full-stack/backend opportunities, internships & collaborations — let's build something impactful!
 
 Favorite tech
 Currently I enjoy working with React, TailwindCSS, Node.js, TypeScript ,PostgreSQL & Prisma and Docker
