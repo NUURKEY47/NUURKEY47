@@ -2,8 +2,10 @@
 ### Full-Stack Software Engineer | Backend Architect | FinTech Enthusiast
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-Nairobi,%20Kenya-0a6630?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Availability-Open%20To%20Work-blue?style=for-the-badge" />
+  <a href="https://eastcod.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20eastcod.xyz-0a6630?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Nairobi,%20Kenya-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </div>
 
 ---
@@ -11,16 +13,16 @@
 ### 👨‍💻 About Me
 I am a passionate **Full-Stack Software Engineer** based in Nairobi, Kenya. I specialize in building scalable, secure, and production-ready applications. My focus lies in **Clean Architecture**, **API Design**, and **DevOps**. Currently, I am deep-diving into the intersection of Software Engineering and Forex Trading.
 
-- 🔭 **Currently Building:** [Rentora Real Estate OS](https://github.com/NUURKEY47/RealEstateApiV2)
-- 🧪 **In Development:** **ForexFlow Tracker** — A high-performance trading journal built with strict TS & Clean Architecture.
+- 🏗️ **Flagship Project:** [Rentora Real Estate OS](https://rentora.cc)
+- 🧪 **Current Development:** **ForexFlow Tracker** — A high-performance trading journal built with strict TS & Clean Architecture.
 - 🌱 **Leveling Up:** Advanced TypeScript, System Design, and AWS Infrastructure.
-- ⚡ **Fun Fact:** I approach coding the same way I approach a Forex trade: with discipline, logic, and a strict risk-management mindset.
+- ⚡ **Engineering Philosophy:** I follow a strict **NOPY/NOOGLE** discipline to ensure I master every line of logic I write.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-| Category | technologies |
+| Category | Technologies |
 | :--- | :--- |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
@@ -31,14 +33,14 @@ I am a passionate **Full-Stack Software Engineer** based in Nairobi, Kenya. I sp
 
 ### 🌟 Featured Projects
 
-#### 🏢 [Rentora | Real Estate Management OS](https://github.com/NUURKEY47/RealEstateApiV2)
+#### 🏢 [Rentora | Real Estate Management OS](https://rentora.cc)
 A professional-grade system for property, unit, and tenant management.
-*   **Tech:** React, Tailwind, Node.js, Prisma, PostgreSQL, Docker.
+*   **Tech:** React, Node.js, Prisma, PostgreSQL, Docker.
 *   **Key Feature:** Role-Based Access Control (RBAC) and full Docker containerization.
-*   🔗 **Docs:** [Live Swagger Documentation](https://api.eastcod.xyz/api-docs)
+*   🔗 **API Documentation:** [Live Swagger Docs](https://api.rentora.cc/docs)
 
 #### 📊 [ForexFlow Tracker](https://github.com/NUURKEY47/ForexTracker)
-*Under Development (Strict NOPY/NOOGLE Challenge)*
+*Under Development (Independent Challenge)*
 A high-performance journal for traders to analyze win rates and profit factors.
 *   **Focus:** Clean Architecture, Math Logic, and Data Visualization.
 
@@ -46,9 +48,6 @@ A high-performance journal for traders to analyze win rates and profit factors.
 
 ### 🌐 Let's Connect
 <div align="left">
-  <a href="https://portfolio.eastcod.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0a6630?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/masternuurkey47/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -62,4 +61,3 @@ A high-performance journal for traders to analyze win rates and profit factors.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NUURKEY47&show_icons=true&theme=tokyonight" alt="Noor's GitHub Stats" />
 </div>
-
