@@ -1,45 +1,65 @@
-Hi 👋, I'm Noor Mohamed Abdikadir  
-A passionate full-stack software engineer from Nairobi, Kenya
+# 🚀 Noor Mohamed Abdikadir
+### Full-Stack Software Engineer | Backend Architect | FinTech Enthusiast
 
-🔭 Currently building RealEstate Management System v2  
-→ Full-stack integration (React + Tailwind frontend + Node.js/Prisma/PostgreSQL backend)  
-→ Role-based property, unit & tenant management with JWT auth  
-→ Live progress: https://github.com/NUURKEY47/RealEstateApiV2
+<div align="center">
+  <img src="https://img.shields.io/badge/Location-Nairobi,%20Kenya-0a6630?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Availability-Open%20To%20Work-blue?style=for-the-badge" />
+</div>
 
-🌱 Learning & leveling up in:
-- React + TypeScript
-- TailwindCSS + modern UI/UX
-- Prisma + PostgreSQL
-- Docker & clean architecture
+---
 
-👨‍💻 All my projects: https://portfolio.eastcod.xyz  
-📝 Current main API (Swagger docs): https://api.eastcod.xyz/api-docs
+### 👨‍💻 About Me
+I am a passionate **Full-Stack Software Engineer** based in Nairobi, Kenya. I specialize in building scalable, secure, and production-ready applications. My focus lies in **Clean Architecture**, **API Design**, and **DevOps**. Currently, I am deep-diving into the intersection of Software Engineering and Forex Trading.
 
-💼 Favorite stack right now:
-React · TailwindCSS · Node.js · TypeScript · Prisma · PostgreSQL · Docker
+- 🔭 **Currently Building:** [Rentora Real Estate OS](https://github.com/NUURKEY47/RealEstateApiV2)
+- 🧪 **In Development:** **ForexFlow Tracker** — A high-performance trading journal built with strict TS & Clean Architecture.
+- 🌱 **Leveling Up:** Advanced TypeScript, System Design, and AWS Infrastructure.
+- ⚡ **Fun Fact:** I approach coding the same way I approach a Forex trade: with discipline, logic, and a strict risk-management mindset.
 
-📫 Reach me:  
-→ yessnoor143@gmail.com  
-→ LinkedIn: [(https://www.linkedin.com/in/masternuurkey47/)](https://www.linkedin.com/in/masternuurkey47/)
-→ Twitter/X: [@yourhandle](https://x.com/yek_ruun)
+---
 
-Open to full-stack/backend opportunities, internships & collaborations — let's build something impactful!
+### 🛠️ Tech Stack & Tools
 
-Favorite tech
-Currently I enjoy working with React, TailwindCSS, Node.js, TypeScript ,PostgreSQL & Prisma and Docker
+| Category | technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
-- 📫 How to reach me→ yessnoor143@gmail.com  
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/masternuurkey47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masternuurkey47" height="30" width="40" /></a>
-</p>
+### 🌟 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+#### 🏢 [Rentora | Real Estate Management OS](https://github.com/NUURKEY47/RealEstateApiV2)
+A professional-grade system for property, unit, and tenant management.
+*   **Tech:** React, Tailwind, Node.js, Prisma, PostgreSQL, Docker.
+*   **Key Feature:** Role-Based Access Control (RBAC) and full Docker containerization.
+*   🔗 **Docs:** [Live Swagger Documentation](https://api.eastcod.xyz/api-docs)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuurkey47&show_icons=true&locale=en&layout=compact" alt="nuurkey47" /></p>
+#### 📊 [ForexFlow Tracker](https://github.com/NUURKEY47/ForexTracker)
+*Under Development (Strict NOPY/NOOGLE Challenge)*
+A high-performance journal for traders to analyze win rates and profit factors.
+*   **Focus:** Clean Architecture, Math Logic, and Data Visualization.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuurkey47&show_icons=true&locale=en" alt="nuurkey47" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuurkey47&" alt="nuurkey47" /></p>
+### 🌐 Let's Connect
+<div align="left">
+  <a href="https://portfolio.eastcod.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0a6630?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/masternuurkey47/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yessnoor143@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NUURKEY47&show_icons=true&theme=tokyonight" alt="Noor's GitHub Stats" />
+</div>
+
